@@ -1,0 +1,25 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Daniel&#39;s coding adventures.",
+  "home_page_url": "https://precious13ui.github.io",
+  "feed_url": "https://precious13ui.github.io/feed/feed.json",
+  "description": "A blog for all my coding adventures",
+  "author": {
+    "name": "Daniel Pitman",
+    "url": ""
+  },
+  "items": [{
+      "id": "https://precious13ui.github.io/posts/codemas22/",
+      "url": "https://precious13ui.github.io/posts/codemas22/",
+      "title": "Merry Codemas!",
+      "content_html": "<h2 id=\"the-12-projects-of-codemas\">THE 12 PROJECTS OF CODEMAS <a class=\"direct-link\" href=\"#the-12-projects-of-codemas\">#</a></h2>\n<p><img src=\"https://cdn.shopify.com/s/files/1/0176/3274/products/maker-advent-calendar-includes-raspberry-pi-pico-h-the-pi-hut-cal-01-39692068520131_700x.jpg?v=1665159637\" alt=\"Maker Calender\"></p>\n<p>I have spent the first 12 days of Christmas making a project a day with the new(ish) Maker Calender. It has been an absolute blast. It includes a gide for each day that will coach you through it. It seems quite expensive but for the amount of things you get it is quite cheap. You can buy it <a href=\"https://thepihut.com/products/maker-advent-calendar-includes-raspberry-pi-pico-h\">here.</a> It is a nice piece of kit for a bit of fun over the holidays. Let's just say if there is one next year it's in my shopping basket. It is also good for expanding you parts selection with new and wacky pieces of kit.</p>\n<h2 id=\"the-cyberdeck-issue\">THE CYBERDECK ISSUE <a class=\"direct-link\" href=\"#the-cyberdeck-issue\">#</a></h2>\n<p><img src=\"https://hackaday.com/wp-content/uploads/2021/03/datablaster_feat.jpg\" alt=\"CyberDeck\"></p>\n<p>Currently I am building a cyberdeck unlike the one above. I have a <a href=\"https://wiki.radxa.com/Zero\">Radxa Zero</a> and I have a widescreen display like the one above. I also have a Rii mini keyboard which you can purchase <a href=\"https://www.amazon.co.uk/Rii-K01X1-Mini-Wireless-Keyboard/dp/B01G6XGLQQ/ref=sr_1_5?crid=XF2220E5D6UN&amp;keywords=rii+mini+keyboard&amp;qid=1671467985&amp;sprefix=rii+%2Caps%2C125&amp;sr=8-5\">here.</a> The issue I'm having is the display and Radxa Zero combo. The display will not work with Zero. I have tried everything like compiling a differnt kernal and compiling a different OS. I have posted on the forums to some to try to help to no evail. I have almost given up. But I will not go down without a fight so I have made a decision. If I haven't fixed it by Liverpool MakeFest(June-August) than I will use a Raspberry Pi zero 2 instead as they are the same formfactor and works with the display. If anyone knows how to fix this issue please <a href=\"https://twitter.com/precious13ui\">tweet at me.</a> Although I may have fixed it if I'm right with what im about to do. When I compiled the different OS I compiled the SD card version but put it on the emmc instead. So I am going to see if using the SD card fixes it. If there is any updates they will be on my <a href=\"https://twitter.com/precious13ui\">twitter.</a> Also the OS I'm trying to compile is a <a href=\"https://www.kali.org/docs/arm/\">Kali arm</a> build script for the Radxa Zero.</p>\n<h4 id=\"image-credits\">IMAGE CREDITS <a class=\"direct-link\" href=\"#image-credits\">#</a></h4>\n<p><a href=\"https://thepihut.com/products/maker-advent-calendar-includes-raspberry-pi-pico-h\">Advent Calender</a><br>\n<a href=\"https://hackaday.com/2021/03/25/data-blaster-is-a-hip-rpi-cyberdeck/\">CyberDeck</a></p>\n",
+      "date_published": "2022-12-19T00:00:00-00:00"
+    },{
+      "id": "https://precious13ui.github.io/posts/welcome/",
+      "url": "https://precious13ui.github.io/posts/welcome/",
+      "title": "Welcome to my blog.",
+      "content_html": "<h2 id=\"welcome\">WELCOME <a class=\"direct-link\" href=\"#welcome\">#</a></h2>\n<p>Hello and welcome to my new blog. I will be posting my coding adventures up on to here.</p>\n<h2 id=\"posting\">POSTING <a class=\"direct-link\" href=\"#posting\">#</a></h2>\n<p>There is no posting schedule but I will be posting rather freqently.</p>\n",
+      "date_published": "2022-12-10T00:00:00-00:00"
+    }
+  ]
+}

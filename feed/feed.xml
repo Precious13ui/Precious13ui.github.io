@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Daniel&#39;s coding adventures.</title>
+	<subtitle>My coding website</subtitle>
+	
+	<link href="https://precious13ui.github.io/feed/feed.xml" rel="self"/>
+	<link href="https://precious13ui.github.io"/>
+	<updated>2022-12-19T00:00:00-00:00</updated>
+	<id>https://precious13ui.github.io</id>
+	<author>
+		<name>Daniel Pitman</name>
+		<email></email>
+	</author>
+	
+	<entry>
+		<title>Welcome to my blog.</title>
+		<link href="https://precious13ui.github.io/posts/welcome/"/>
+		<updated>2022-12-10T00:00:00-00:00</updated>
+		<id>https://precious13ui.github.io/posts/welcome/</id>
+		<content type="html">
+		  &lt;h2 id=&quot;welcome&quot;&gt;WELCOME &lt;a class=&quot;direct-link&quot; href=&quot;#welcome&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Hello and welcome to my new blog. I will be posting my coding adventures up on to here.&lt;/p&gt;
+&lt;h2 id=&quot;posting&quot;&gt;POSTING &lt;a class=&quot;direct-link&quot; href=&quot;#posting&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;There is no posting schedule but I will be posting rather freqently.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Merry Codemas!</title>
+		<link href="https://precious13ui.github.io/posts/codemas22/"/>
+		<updated>2022-12-19T00:00:00-00:00</updated>
+		<id>https://precious13ui.github.io/posts/codemas22/</id>
+		<content type="html">
+		  &lt;h2 id=&quot;the-12-projects-of-codemas&quot;&gt;THE 12 PROJECTS OF CODEMAS &lt;a class=&quot;direct-link&quot; href=&quot;#the-12-projects-of-codemas&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0176/3274/products/maker-advent-calendar-includes-raspberry-pi-pico-h-the-pi-hut-cal-01-39692068520131_700x.jpg?v=1665159637&quot; alt=&quot;Maker Calender&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I have spent the first 12 days of Christmas making a project a day with the new(ish) Maker Calender. It has been an absolute blast. It includes a gide for each day that will coach you through it. It seems quite expensive but for the amount of things you get it is quite cheap. You can buy it &lt;a href=&quot;https://thepihut.com/products/maker-advent-calendar-includes-raspberry-pi-pico-h&quot;&gt;here.&lt;/a&gt; It is a nice piece of kit for a bit of fun over the holidays. Let&#39;s just say if there is one next year it&#39;s in my shopping basket. It is also good for expanding you parts selection with new and wacky pieces of kit.&lt;/p&gt;
+&lt;h2 id=&quot;the-cyberdeck-issue&quot;&gt;THE CYBERDECK ISSUE &lt;a class=&quot;direct-link&quot; href=&quot;#the-cyberdeck-issue&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://hackaday.com/wp-content/uploads/2021/03/datablaster_feat.jpg&quot; alt=&quot;CyberDeck&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Currently I am building a cyberdeck unlike the one above. I have a &lt;a href=&quot;https://wiki.radxa.com/Zero&quot;&gt;Radxa Zero&lt;/a&gt; and I have a widescreen display like the one above. I also have a Rii mini keyboard which you can purchase &lt;a href=&quot;https://www.amazon.co.uk/Rii-K01X1-Mini-Wireless-Keyboard/dp/B01G6XGLQQ/ref=sr_1_5?crid=XF2220E5D6UN&amp;amp;keywords=rii+mini+keyboard&amp;amp;qid=1671467985&amp;amp;sprefix=rii+%2Caps%2C125&amp;amp;sr=8-5&quot;&gt;here.&lt;/a&gt; The issue I&#39;m having is the display and Radxa Zero combo. The display will not work with Zero. I have tried everything like compiling a differnt kernal and compiling a different OS. I have posted on the forums to some to try to help to no evail. I have almost given up. But I will not go down without a fight so I have made a decision. If I haven&#39;t fixed it by Liverpool MakeFest(June-August) than I will use a Raspberry Pi zero 2 instead as they are the same formfactor and works with the display. If anyone knows how to fix this issue please &lt;a href=&quot;https://twitter.com/precious13ui&quot;&gt;tweet at me.&lt;/a&gt; Although I may have fixed it if I&#39;m right with what im about to do. When I compiled the different OS I compiled the SD card version but put it on the emmc instead. So I am going to see if using the SD card fixes it. If there is any updates they will be on my &lt;a href=&quot;https://twitter.com/precious13ui&quot;&gt;twitter.&lt;/a&gt; Also the OS I&#39;m trying to compile is a &lt;a href=&quot;https://www.kali.org/docs/arm/&quot;&gt;Kali arm&lt;/a&gt; build script for the Radxa Zero.&lt;/p&gt;
+&lt;h4 id=&quot;image-credits&quot;&gt;IMAGE CREDITS &lt;a class=&quot;direct-link&quot; href=&quot;#image-credits&quot;&gt;#&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://thepihut.com/products/maker-advent-calendar-includes-raspberry-pi-pico-h&quot;&gt;Advent Calender&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;https://hackaday.com/2021/03/25/data-blaster-is-a-hip-rpi-cyberdeck/&quot;&gt;CyberDeck&lt;/a&gt;&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+</feed>
